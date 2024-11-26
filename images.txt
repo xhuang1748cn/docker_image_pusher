@@ -2,3 +2,4 @@ vllm/vllm-openai:v0.5.4
 vllm/vllm-openai:v0.6.1.post2
 bitnami/kafka:3.6.2
 wurstmeister/kafka:2.12-2.3.0
+wurstmeister/zookeeper:3.4.6
