@@ -2,3 +2,5 @@ vllm/vllm-openai:v0.5.4
 vllm/vllm-openai:v0.6.1.post2
 apache/kafka:3.9.0
 zookeeper:3.9.3
+wurstmeister/zookeeper:3.4.6
+wurstmeister/kafka:3.5
