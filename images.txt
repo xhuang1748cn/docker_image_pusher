@@ -1,3 +1,1 @@
 enmotech/opengauss:latest
-enmotech/opengauss:6.0.0
-enmotech/opengauss:6.0.0-RC1
