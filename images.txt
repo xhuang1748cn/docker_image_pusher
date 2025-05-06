@@ -1,1 +1,1 @@
-node:22-slim
+zilliz/attu:v2.5
