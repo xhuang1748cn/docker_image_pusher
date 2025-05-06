@@ -1,1 +1,1 @@
-enmotech/opengauss:6.0.0-RC1
+milvusdb/milvus:v2.5.11
