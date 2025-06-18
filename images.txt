@@ -1,1 +1,4 @@
-nacos/nacos-server:v2.4.3
+nginx:latest
+semitechnologies/weaviate:1.19.0
+langgenius/dify-api:1.4.3
+ubuntu/squid:latest
