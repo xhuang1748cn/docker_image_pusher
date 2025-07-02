@@ -1,1 +1,1 @@
-ubuntu:24.04.2
+registry:2
