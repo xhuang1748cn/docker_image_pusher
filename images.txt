@@ -1,1 +1,1 @@
-rabbitmq:4.2.5-management
+redis:5.0.14.1
