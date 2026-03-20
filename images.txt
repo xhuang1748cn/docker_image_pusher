@@ -1,1 +1,1 @@
-registry:2
+rabbitmq:4-management
