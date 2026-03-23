@@ -1,1 +1,2 @@
 redis:5.0.14
+rabbitmq:3-management
